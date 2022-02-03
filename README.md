@@ -1,4 +1,4 @@
-# HackGT8-Problem
+# Cryptography-Problem
 
 This is a cryptography problem that was written to be solved by participants in the cybersecurity tournament at HackGT8 Hackathon hosted at Georgia Tech on October 22-24, 2021.
 
